@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="MPIF.Application/MPIF.Application.csproj" Id="e5abc8dd-93c4-48ca-b272-45e250955341" />
+  <Project Path="MPIF.Contracts/MPIF.Contracts.csproj" Id="c6853c20-3332-4653-904c-292d4cca628d" />
+  <Project Path="MPIF.Domain/MPIF.Domain.csproj" Id="0c3f80ef-88ac-4633-9272-8f5b52189933" />
+  <Project Path="MPIF.Infrastructure/MPIF.Infrastructure.csproj" Id="9cffe5fd-f3a5-4cb1-a0da-86f3f8824baf" />
+  <Project Path="MPIF.UI/MPIF.UI.csproj" Id="14177de8-fd06-42e7-93be-6773c1d741be" />
+</Solution>

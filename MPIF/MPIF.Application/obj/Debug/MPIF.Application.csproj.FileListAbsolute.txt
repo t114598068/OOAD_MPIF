@@ -1,0 +1,11 @@
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Application\bin\Debug\MPIF.Application.dll
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Application\bin\Debug\MPIF.Application.pdb
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Application\bin\Debug\MPIF.Contracts.dll
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Application\bin\Debug\MPIF.Domain.dll
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Application\bin\Debug\MPIF.Contracts.pdb
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Application\bin\Debug\MPIF.Domain.pdb
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Application\obj\Debug\MPIF.Application.csproj.AssemblyReference.cache
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Application\obj\Debug\MPIF.Application.csproj.CoreCompileInputs.cache
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Application\obj\Debug\MPIF.App.E5C77AEE.Up2Date
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Application\obj\Debug\MPIF.Application.dll
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Application\obj\Debug\MPIF.Application.pdb

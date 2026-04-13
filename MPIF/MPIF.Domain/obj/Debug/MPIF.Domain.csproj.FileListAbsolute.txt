@@ -1,0 +1,6 @@
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Domain\bin\Debug\MPIF.Domain.dll
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Domain\bin\Debug\MPIF.Domain.pdb
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Domain\obj\Debug\MPIF.Domain.csproj.AssemblyReference.cache
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Domain\obj\Debug\MPIF.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Domain\obj\Debug\MPIF.Domain.dll
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Domain\obj\Debug\MPIF.Domain.pdb

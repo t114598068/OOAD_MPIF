@@ -1,0 +1,13 @@
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Infrastructure\bin\Debug\MPIF.Infrastructure.dll
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Infrastructure\bin\Debug\MPIF.Infrastructure.pdb
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Infrastructure\bin\Debug\MPIF.Application.dll
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Infrastructure\bin\Debug\MPIF.Contracts.dll
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Infrastructure\bin\Debug\MPIF.Domain.dll
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Infrastructure\bin\Debug\MPIF.Application.pdb
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Infrastructure\bin\Debug\MPIF.Contracts.pdb
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Infrastructure\bin\Debug\MPIF.Domain.pdb
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Infrastructure\obj\Debug\MPIF.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Infrastructure\obj\Debug\MPIF.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Infrastructure\obj\Debug\MPIF.Inf.3358795C.Up2Date
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Infrastructure\obj\Debug\MPIF.Infrastructure.dll
+C:\Users\kazarin\Pictures\MPIF\MPIF.Contracts\MPIF.Infrastructure\obj\Debug\MPIF.Infrastructure.pdb
